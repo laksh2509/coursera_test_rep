@@ -50,7 +50,7 @@ body{
 
 .navbar-default .navbar-nav>li>a {
     color: #ccc;
-    text-align:center;
+    /*text-align:center;*/
     border-bottom:1px solid #3d3c3a;
 }
 
